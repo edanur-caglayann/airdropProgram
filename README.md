@@ -1,6 +1,3 @@
-Tabii, işte düzenlenmiş GitHub README metni:
-
-```markdown
 # Airdrop Nedir?
 
 Airdrop, genellikle bir kripto para birimini ücretsiz olarak bir cüzdana gönderme işlemidir. Bu işlem, kripto para birimini tanıtmak veya kullanıcıların blockchain teknolojisi ile işlem yapmalarını sağlamak amacıyla gerçekleştirilir.
@@ -123,8 +120,4 @@ const driverFunction = async () => {
     await getWalletBalance(); // Güncellenmiş bakiye
 }
 ```
-
 Bu fonksiyon, işlemleri sırasıyla gerçekleştirir ve her adımda beklenen çıktıları sağlar.
-```
-
-Düzenlemeler yapıldı ve Markdown formatında hazırlandı. Herhangi bir ekleme ya da değişiklik ister misin?
